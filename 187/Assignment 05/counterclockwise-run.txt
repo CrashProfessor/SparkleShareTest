@@ -1,0 +1,104 @@
+message M5[0->9] sent by 0; to be received by 9
+message M5[0->9] dropped; destination not reachable
+message M35[5->9] sent by 5; to be received by 9
+message M35[5->9] dropped; destination not reachable
+message M29[4->9] sent by 4; to be received by 9
+message M29[4->9] dropped; destination not reachable
+message M23[3->9] sent by 3; to be received by 9
+message M23[3->9] dropped; destination not reachable
+message M17[2->9] sent by 2; to be received by 9
+message M17[2->9] dropped; destination not reachable
+message M11[1->9] sent by 1; to be received by 9
+message M11[1->9] dropped; destination not reachable
+message M4[0->4] sent by 0; to be received by 4
+message M4[0->4] received by 4; sent by 0
+message M4[0->4] acknowledged by sender 0 from destination 4
+message M34[5->3] sent by 5; to be received by 3
+message M34[5->3] received by 3; sent by 5
+message M34[5->3] acknowledged by sender 5 from destination 3
+message M28[4->3] sent by 4; to be received by 3
+message M28[4->3] received by 3; sent by 4
+message M28[4->3] acknowledged by sender 4 from destination 3
+message M22[3->4] sent by 3; to be received by 4
+message M22[3->4] received by 4; sent by 3
+message M22[3->4] acknowledged by sender 3 from destination 4
+message M16[2->4] sent by 2; to be received by 4
+message M16[2->4] received by 4; sent by 2
+message M16[2->4] acknowledged by sender 2 from destination 4
+message M10[1->4] sent by 1; to be received by 4
+message M10[1->4] received by 4; sent by 1
+message M10[1->4] acknowledged by sender 1 from destination 4
+message M3[0->1] sent by 0; to be received by 1
+message M3[0->1] received by 1; sent by 0
+message M3[0->1] acknowledged by sender 0 from destination 1
+message M33[5->0] sent by 5; to be received by 0
+message M33[5->0] received by 0; sent by 5
+message M33[5->0] acknowledged by sender 5 from destination 0
+message M27[4->0] sent by 4; to be received by 0
+message M27[4->0] received by 0; sent by 4
+message M27[4->0] acknowledged by sender 4 from destination 0
+message M21[3->0] sent by 3; to be received by 0
+message M21[3->0] received by 0; sent by 3
+message M21[3->0] acknowledged by sender 3 from destination 0
+message M15[2->0] sent by 2; to be received by 0
+message M15[2->0] received by 0; sent by 2
+message M15[2->0] acknowledged by sender 2 from destination 0
+message M9[1->0] sent by 1; to be received by 0
+message M9[1->0] received by 0; sent by 1
+message M9[1->0] acknowledged by sender 1 from destination 0
+message M2[0->2] sent by 0; to be received by 2
+message M2[0->2] received by 2; sent by 0
+message M2[0->2] acknowledged by sender 0 from destination 2
+message M32[5->1] sent by 5; to be received by 1
+message M32[5->1] received by 1; sent by 5
+message M32[5->1] acknowledged by sender 5 from destination 1
+message M26[4->1] sent by 4; to be received by 1
+message M26[4->1] received by 1; sent by 4
+message M26[4->1] acknowledged by sender 4 from destination 1
+message M20[3->1] sent by 3; to be received by 1
+message M20[3->1] received by 1; sent by 3
+message M20[3->1] acknowledged by sender 3 from destination 1
+message M14[2->1] sent by 2; to be received by 1
+message M14[2->1] received by 1; sent by 2
+message M14[2->1] acknowledged by sender 2 from destination 1
+message M8[1->2] sent by 1; to be received by 2
+message M8[1->2] received by 2; sent by 1
+message M8[1->2] acknowledged by sender 1 from destination 2
+message M1[0->5] sent by 0; to be received by 5
+message M1[0->5] received by 5; sent by 0
+message M1[0->5] acknowledged by sender 0 from destination 5
+message M31[5->4] sent by 5; to be received by 4
+message M31[5->4] received by 4; sent by 5
+message M31[5->4] acknowledged by sender 5 from destination 4
+message M25[4->5] sent by 4; to be received by 5
+message M25[4->5] received by 5; sent by 4
+message M25[4->5] acknowledged by sender 4 from destination 5
+message M19[3->5] sent by 3; to be received by 5
+message M19[3->5] received by 5; sent by 3
+message M19[3->5] acknowledged by sender 3 from destination 5
+message M13[2->5] sent by 2; to be received by 5
+message M13[2->5] received by 5; sent by 2
+message M13[2->5] acknowledged by sender 2 from destination 5
+message M7[1->5] sent by 1; to be received by 5
+message M7[1->5] received by 5; sent by 1
+message M7[1->5] acknowledged by sender 1 from destination 5
+message M0[0->3] sent by 0; to be received by 3
+message M0[0->3] received by 3; sent by 0
+message M0[0->3] acknowledged by sender 0 from destination 3
+message M30[5->2] sent by 5; to be received by 2
+message M30[5->2] received by 2; sent by 5
+message M30[5->2] acknowledged by sender 5 from destination 2
+message M24[4->2] sent by 4; to be received by 2
+message M24[4->2] received by 2; sent by 4
+message M24[4->2] acknowledged by sender 4 from destination 2
+message M18[3->2] sent by 3; to be received by 2
+message M18[3->2] received by 2; sent by 3
+message M18[3->2] acknowledged by sender 3 from destination 2
+message M12[2->3] sent by 2; to be received by 3
+message M12[2->3] received by 3; sent by 2
+message M12[2->3] acknowledged by sender 2 from destination 3
+message M6[1->3] sent by 1; to be received by 3
+message M6[1->3] received by 3; sent by 1
+message M6[1->3] acknowledged by sender 1 from destination 3
+
+messages sent = 36, received = 30
